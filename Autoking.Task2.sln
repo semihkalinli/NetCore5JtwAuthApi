@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autoking.Task2.Http", "Autoking.Task2.Http\Autoking.Task2.Http.csproj", "{06B866DA-9278-41D0-8EEE-8833F579AA3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autoking.Task2.Core", "Autoking.Task2.Core\Autoking.Task2.Core.csproj", "{B6FB3C8A-8B6C-4960-B2CC-7FD85FC51CAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autoking.Task2.Business", "Autoking.Task2.Business\Autoking.Task2.Business.csproj", "{D42886D0-B274-4D16-A813-1D81CA378DE5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FAB97496-2432-44DC-AB35-987628EB30AF}"
+	ProjectSection(SolutionItems) = preProject
+		readme.txt = readme.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06B866DA-9278-41D0-8EEE-8833F579AA3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06B866DA-9278-41D0-8EEE-8833F579AA3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06B866DA-9278-41D0-8EEE-8833F579AA3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06B866DA-9278-41D0-8EEE-8833F579AA3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6FB3C8A-8B6C-4960-B2CC-7FD85FC51CAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6FB3C8A-8B6C-4960-B2CC-7FD85FC51CAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6FB3C8A-8B6C-4960-B2CC-7FD85FC51CAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6FB3C8A-8B6C-4960-B2CC-7FD85FC51CAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D42886D0-B274-4D16-A813-1D81CA378DE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D42886D0-B274-4D16-A813-1D81CA378DE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D42886D0-B274-4D16-A813-1D81CA378DE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D42886D0-B274-4D16-A813-1D81CA378DE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED07022A-19F2-4C4C-8B98-161D6299AC08}
+	EndGlobalSection
+EndGlobal

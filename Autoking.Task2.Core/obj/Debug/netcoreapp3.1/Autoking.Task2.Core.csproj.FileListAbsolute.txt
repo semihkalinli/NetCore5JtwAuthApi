@@ -1,0 +1,12 @@
+C:\Users\semih.kalinli\source\repos\Autoking.Task2\Autoking.Task2.Core\bin\Debug\netcoreapp3.1\Autoking.Task2.Core.deps.json
+C:\Users\semih.kalinli\source\repos\Autoking.Task2\Autoking.Task2.Core\bin\Debug\netcoreapp3.1\Autoking.Task2.Core.dll
+C:\Users\semih.kalinli\source\repos\Autoking.Task2\Autoking.Task2.Core\bin\Debug\netcoreapp3.1\Autoking.Task2.Core.pdb
+C:\Users\semih.kalinli\source\repos\Autoking.Task2\Autoking.Task2.Core\obj\Debug\netcoreapp3.1\Autoking.Task2.Core.AssemblyInfoInputs.cache
+C:\Users\semih.kalinli\source\repos\Autoking.Task2\Autoking.Task2.Core\obj\Debug\netcoreapp3.1\Autoking.Task2.Core.AssemblyInfo.cs
+C:\Users\semih.kalinli\source\repos\Autoking.Task2\Autoking.Task2.Core\obj\Debug\netcoreapp3.1\Autoking.Task2.Core.csproj.CoreCompileInputs.cache
+C:\Users\semih.kalinli\source\repos\Autoking.Task2\Autoking.Task2.Core\obj\Debug\netcoreapp3.1\Autoking.Task2.Core.dll
+C:\Users\semih.kalinli\source\repos\Autoking.Task2\Autoking.Task2.Core\obj\Debug\netcoreapp3.1\Autoking.Task2.Core.pdb
+C:\Users\semih.kalinli\source\repos\Autoking.Task2\Autoking.Task2.Core\bin\Debug\netcoreapp3.1\Autoking.Task2.Core.runtimeconfig.json
+C:\Users\semih.kalinli\source\repos\Autoking.Task2\Autoking.Task2.Core\bin\Debug\netcoreapp3.1\Autoking.Task2.Core.runtimeconfig.dev.json
+C:\Users\semih.kalinli\source\repos\Autoking.Task2\Autoking.Task2.Core\obj\Debug\netcoreapp3.1\Autoking.Task2.Core.genruntimeconfig.cache
+C:\Users\semih.kalinli\source\repos\Autoking.Task2\Autoking.Task2.Core\obj\Debug\netcoreapp3.1\Autoking.Task2.Core.csprojAssemblyReference.cache
